@@ -8,12 +8,12 @@ function App() {
       <header className="header">
         <div className="header-left">
           <img
-            src="img/4.jpg" 
+            src="img/5.jpg" 
             alt="Profile"
             className="profile-img"
           />
           <div>
-            <h1 className="name">Sharko Aleksey</h1>
+            <h1 className="name">Aleksey</h1>
             <p className="title">Full Stack Developer</p>
           </div>
         </div>
